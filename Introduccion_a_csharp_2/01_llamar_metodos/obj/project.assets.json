@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gaelgg/c_sharp/Microsoft_Learn/Modulo_2/01_llamada_de_metodos/ProyectoPrueba.csproj",
+      "projectUniqueName": "/home/gaelgg/c_sharp/Microsoft_Learn/Introduccion_a_csharp_2/01_llamar_metodos/ProyectoPrueba.csproj",
       "projectName": "ProyectoPrueba",
-      "projectPath": "/home/gaelgg/c_sharp/Microsoft_Learn/Modulo_2/01_llamada_de_metodos/ProyectoPrueba.csproj",
+      "projectPath": "/home/gaelgg/c_sharp/Microsoft_Learn/Introduccion_a_csharp_2/01_llamar_metodos/ProyectoPrueba.csproj",
       "packagesPath": "/home/gaelgg/.nuget/packages/",
-      "outputPath": "/home/gaelgg/c_sharp/Microsoft_Learn/Modulo_2/01_llamada_de_metodos/obj/",
+      "outputPath": "/home/gaelgg/c_sharp/Microsoft_Learn/Introduccion_a_csharp_2/01_llamar_metodos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gaelgg/.nuget/NuGet/NuGet.Config"

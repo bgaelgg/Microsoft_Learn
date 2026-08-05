@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/gaelgg/c_sharp/Microsoft_Learn/Modulo_2/02_logica_if_else_elseif/02_logica_if_else_elseif.csproj": {}
+    "/home/gaelgg/c_sharp/Microsoft_Learn/Introduccion_a_csharp_2/02_logica_if_else_elseif/02_logica_if_else_elseif.csproj": {}
   },
   "projects": {
-    "/home/gaelgg/c_sharp/Microsoft_Learn/Modulo_2/02_logica_if_else_elseif/02_logica_if_else_elseif.csproj": {
+    "/home/gaelgg/c_sharp/Microsoft_Learn/Introduccion_a_csharp_2/02_logica_if_else_elseif/02_logica_if_else_elseif.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gaelgg/c_sharp/Microsoft_Learn/Modulo_2/02_logica_if_else_elseif/02_logica_if_else_elseif.csproj",
+        "projectUniqueName": "/home/gaelgg/c_sharp/Microsoft_Learn/Introduccion_a_csharp_2/02_logica_if_else_elseif/02_logica_if_else_elseif.csproj",
         "projectName": "02_logica_if_else_elseif",
-        "projectPath": "/home/gaelgg/c_sharp/Microsoft_Learn/Modulo_2/02_logica_if_else_elseif/02_logica_if_else_elseif.csproj",
+        "projectPath": "/home/gaelgg/c_sharp/Microsoft_Learn/Introduccion_a_csharp_2/02_logica_if_else_elseif/02_logica_if_else_elseif.csproj",
         "packagesPath": "/home/gaelgg/.nuget/packages/",
-        "outputPath": "/home/gaelgg/c_sharp/Microsoft_Learn/Modulo_2/02_logica_if_else_elseif/obj/",
+        "outputPath": "/home/gaelgg/c_sharp/Microsoft_Learn/Introduccion_a_csharp_2/02_logica_if_else_elseif/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gaelgg/.nuget/NuGet/NuGet.Config"
