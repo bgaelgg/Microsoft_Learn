@@ -1,0 +1,14 @@
+/home/gaelgg/proyectos/cAlmohadilla/ProyectoPrueba/bin/Debug/net10.0/ProyectoPrueba
+/home/gaelgg/proyectos/cAlmohadilla/ProyectoPrueba/bin/Debug/net10.0/ProyectoPrueba.deps.json
+/home/gaelgg/proyectos/cAlmohadilla/ProyectoPrueba/bin/Debug/net10.0/ProyectoPrueba.runtimeconfig.json
+/home/gaelgg/proyectos/cAlmohadilla/ProyectoPrueba/bin/Debug/net10.0/ProyectoPrueba.dll
+/home/gaelgg/proyectos/cAlmohadilla/ProyectoPrueba/bin/Debug/net10.0/ProyectoPrueba.pdb
+/home/gaelgg/proyectos/cAlmohadilla/ProyectoPrueba/obj/Debug/net10.0/ProyectoPrueba.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaelgg/proyectos/cAlmohadilla/ProyectoPrueba/obj/Debug/net10.0/ProyectoPrueba.AssemblyInfoInputs.cache
+/home/gaelgg/proyectos/cAlmohadilla/ProyectoPrueba/obj/Debug/net10.0/ProyectoPrueba.AssemblyInfo.cs
+/home/gaelgg/proyectos/cAlmohadilla/ProyectoPrueba/obj/Debug/net10.0/ProyectoPrueba.csproj.CoreCompileInputs.cache
+/home/gaelgg/proyectos/cAlmohadilla/ProyectoPrueba/obj/Debug/net10.0/ProyectoPrueba.dll
+/home/gaelgg/proyectos/cAlmohadilla/ProyectoPrueba/obj/Debug/net10.0/refint/ProyectoPrueba.dll
+/home/gaelgg/proyectos/cAlmohadilla/ProyectoPrueba/obj/Debug/net10.0/ProyectoPrueba.pdb
+/home/gaelgg/proyectos/cAlmohadilla/ProyectoPrueba/obj/Debug/net10.0/ProyectoPrueba.genruntimeconfig.cache
+/home/gaelgg/proyectos/cAlmohadilla/ProyectoPrueba/obj/Debug/net10.0/ref/ProyectoPrueba.dll
