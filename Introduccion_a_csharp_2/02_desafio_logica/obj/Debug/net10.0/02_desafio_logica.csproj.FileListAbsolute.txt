@@ -1,0 +1,15 @@
+/home/gaelgg/practicas/Microsoft_Learn/Introduccion_a_csharp_2/02_desafio_logica/bin/Debug/net10.0/02_desafio_logica
+/home/gaelgg/practicas/Microsoft_Learn/Introduccion_a_csharp_2/02_desafio_logica/bin/Debug/net10.0/02_desafio_logica.deps.json
+/home/gaelgg/practicas/Microsoft_Learn/Introduccion_a_csharp_2/02_desafio_logica/bin/Debug/net10.0/02_desafio_logica.runtimeconfig.json
+/home/gaelgg/practicas/Microsoft_Learn/Introduccion_a_csharp_2/02_desafio_logica/bin/Debug/net10.0/02_desafio_logica.dll
+/home/gaelgg/practicas/Microsoft_Learn/Introduccion_a_csharp_2/02_desafio_logica/bin/Debug/net10.0/02_desafio_logica.pdb
+/home/gaelgg/practicas/Microsoft_Learn/Introduccion_a_csharp_2/02_desafio_logica/obj/Debug/net10.0/02_desafio_logica.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaelgg/practicas/Microsoft_Learn/Introduccion_a_csharp_2/02_desafio_logica/obj/Debug/net10.0/02_desafio_logica.AssemblyInfoInputs.cache
+/home/gaelgg/practicas/Microsoft_Learn/Introduccion_a_csharp_2/02_desafio_logica/obj/Debug/net10.0/02_desafio_logica.AssemblyInfo.cs
+/home/gaelgg/practicas/Microsoft_Learn/Introduccion_a_csharp_2/02_desafio_logica/obj/Debug/net10.0/02_desafio_logica.csproj.CoreCompileInputs.cache
+/home/gaelgg/practicas/Microsoft_Learn/Introduccion_a_csharp_2/02_desafio_logica/obj/Debug/net10.0/02_desafio_logica.sourcelink.json
+/home/gaelgg/practicas/Microsoft_Learn/Introduccion_a_csharp_2/02_desafio_logica/obj/Debug/net10.0/02_desafio_logica.dll
+/home/gaelgg/practicas/Microsoft_Learn/Introduccion_a_csharp_2/02_desafio_logica/obj/Debug/net10.0/refint/02_desafio_logica.dll
+/home/gaelgg/practicas/Microsoft_Learn/Introduccion_a_csharp_2/02_desafio_logica/obj/Debug/net10.0/02_desafio_logica.pdb
+/home/gaelgg/practicas/Microsoft_Learn/Introduccion_a_csharp_2/02_desafio_logica/obj/Debug/net10.0/02_desafio_logica.genruntimeconfig.cache
+/home/gaelgg/practicas/Microsoft_Learn/Introduccion_a_csharp_2/02_desafio_logica/obj/Debug/net10.0/ref/02_desafio_logica.dll
