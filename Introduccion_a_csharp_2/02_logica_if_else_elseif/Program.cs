@@ -1,21 +1,19 @@
-﻿using System;
-
-namespace _02_logica_if_else_elseif
+﻿namespace _02_logica_if_else_elseif
 {
     public class LanzarDados
     {
         public static void Main(string[] args)
         {
-            int roll1, roll2,roll3, total;
+
 
             Console.WriteLine();
 
             Random dado = new();
-            roll1 = dado.Next(1, 7);
-            roll2 = dado.Next(1, 7);
-            roll3 = dado.Next(1, 7);
+            int roll1 = dado.Next(1, 7);
+            int roll2 = dado.Next(1, 7);
+            int roll3 = dado.Next(1, 7);
 
-            total = roll1 + roll2 + roll3;
+            int total = roll1 + roll2 + roll3;
             
             Console.WriteLine($"Tiradas: {roll1}, {roll2}, {roll3}");
 
@@ -31,8 +29,8 @@ namespace _02_logica_if_else_elseif
 
                 else
                 {
-                Console.WriteLine("¡Sacaste pares! Obtienes +2 puntos");
-                total += 2;                    
+                    Console.WriteLine("¡Sacaste pares! Obtienes +2 puntos");
+                    total += 2;                    
                 }
             }
 

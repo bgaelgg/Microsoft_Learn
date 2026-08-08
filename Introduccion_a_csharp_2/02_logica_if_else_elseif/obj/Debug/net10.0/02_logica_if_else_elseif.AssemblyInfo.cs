@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02_logica_if_else_elseif")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+299d58a032ecfec44f851af47bb8961dd84dfbe4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04b3940414d77072697930cf3fd640b9b870745c")]
 [assembly: System.Reflection.AssemblyProductAttribute("02_logica_if_else_elseif")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02_logica_if_else_elseif")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
